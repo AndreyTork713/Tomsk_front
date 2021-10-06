@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.top_bar{
+    background-color: #2f3844;
+}
+
+.container{
+    margin: 0 auto;
+    width: 90%;
+}
+
+.top_bar-content {
+    height: 75px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.social-icons {
+    display: flex;
+    align-items: center;
+}
+.social-icon {
+    background: url("./img/mail.jpg")center/100% no-repeat;
+    width: 30px;
+    height: 30px;
+    background-color: #5c636d;
+    border-radius: 50%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.seek {
+    
+}
+.seek-text {
+    
+}
+.seek-element {
+}
